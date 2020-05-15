@@ -135,13 +135,16 @@ namespace Bme121
                     }
                 }
 
-                // Check to see if a move is possible & initialize values
+                // Check to see if a move is possible and initialize values
+		    
                 int r = -1;
                 int c = -1;
                 
                 if( move > 0 )
                 {
-            // Figure out where the row and column is on the board
+			
+            	// Figure out where the row and column are on the board
+			
 					for( int row = 0; row< board.GetLength(0); row ++)
 						for( int col = 0; col < board.GetLength(1); col++)
 						{
@@ -152,7 +155,8 @@ namespace Bme121
 							}
 						}
 			
-			//check to see which way the tile can move
+			//Check to see which way the tiles can move
+			
 				bool right = true;
 				bool down = true;
 				bool left = true;
@@ -177,6 +181,7 @@ namespace Bme121
 			
 			
 			//Check to see if movement is in pairs
+			
 			if(right == true)
 			{
 				if(board[r,c+1] == 0 || board[r,c+2] !=0)
@@ -201,6 +206,7 @@ namespace Bme121
 			}
 			
 			//Adjust the board's values to move the tiles
+			
 			if(right == true)
 			{
 				board[r,c+2] = board [r,c+1];
