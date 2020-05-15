@@ -1,4 +1,4 @@
-# pushTileGame
+# Push Tile Game
 
 To run the Push tile game on a Windows OS: 
 - From https://dotnet.microsoft.com/download download the .NET Framework Dev Pack
@@ -11,4 +11,4 @@ To run the Push tile game on a Windows OS:
 
 To run on Mac/Linux:
 - This has not been tested, however as laid out in the project file, running this code relies on the Microsoft.NET SDK, specifically the netcoreapp2.1 Framework
-- Find a version here https://dotnet.microsoft.com/download which is supported on your OS and try the steps above
+- Find a version here https://dotnet.microsoft.com/download which is supported on your OS and try the steps above in your system's terminal instead of Powershell
