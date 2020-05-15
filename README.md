@@ -1,6 +1,8 @@
 # Push Tile Game
 
-To run the Push tile game on a Windows OS: 
+This game consists of a 4X4 grid with 12 labelled tiles and 4 blank tiles. CLick the 's' key on your keyboard to scramble the tiles, then enter tile values into your keyboard to push tiles in pairs around the board. The goal of the game is to get the tiles back into their original ordered state (pictured in the screenshot below). Tiles can only be push towards empty spaces, and can only be pushed in pairs. 
+
+To run the tile game on a Windows OS: 
 - From https://dotnet.microsoft.com/download download the .NET Framework Dev Pack
 - Clone this repository to your local computer
 - Open a Windows Powershell terminal in the pushTileGame directory
