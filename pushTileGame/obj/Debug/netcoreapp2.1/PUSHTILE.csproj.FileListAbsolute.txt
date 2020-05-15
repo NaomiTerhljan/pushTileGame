@@ -1,0 +1,11 @@
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\bin\Debug\netcoreapp2.1\PUSHTILE.deps.json
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\bin\Debug\netcoreapp2.1\PUSHTILE.runtimeconfig.json
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\bin\Debug\netcoreapp2.1\PUSHTILE.runtimeconfig.dev.json
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\bin\Debug\netcoreapp2.1\PUSHTILE.dll
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\bin\Debug\netcoreapp2.1\PUSHTILE.pdb
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\obj\Debug\netcoreapp2.1\PUSHTILE.csprojAssemblyReference.cache
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\obj\Debug\netcoreapp2.1\PUSHTILE.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\obj\Debug\netcoreapp2.1\PUSHTILE.AssemblyInfoInputs.cache
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\obj\Debug\netcoreapp2.1\PUSHTILE.AssemblyInfo.cs
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\obj\Debug\netcoreapp2.1\PUSHTILE.dll
+C:\Users\Naomi\OneDrive - University of Waterloo (1)\Desktop\pushTileGame\pttest\obj\Debug\netcoreapp2.1\PUSHTILE.pdb
